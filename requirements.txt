@@ -2,6 +2,6 @@ tensorflow
 pandas
 numpy
 matplotlib
-plotly
 scikit-learn
+plotly
 requests
